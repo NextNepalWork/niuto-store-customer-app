@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/webview_flutter/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/webview_flutter/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/webview_flutter/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/webview_flutter/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable/notification_bg_low.xml"
+    }
+]

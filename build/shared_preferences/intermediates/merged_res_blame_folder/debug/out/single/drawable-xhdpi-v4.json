@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/shared_preferences/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/shared_preferences/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/shared_preferences/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/shared_preferences/intermediates/res/merged/debug/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/shared_preferences/intermediates/res/merged/debug/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    }
+]

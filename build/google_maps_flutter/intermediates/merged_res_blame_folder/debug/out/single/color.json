@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/5f91c43f48297a8a11348cfeef90e8f3/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/5f91c43f48297a8a11348cfeef90e8f3/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/google_maps_flutter/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/5f91c43f48297a8a11348cfeef90e8f3/jetified-play-services-base-17.0.0/res/color/common_google_signin_btn_tint.xml"
+    }
+]

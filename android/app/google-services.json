@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161762444794",
+    "project_id": "niuto-customer",
+    "storage_bucket": "niuto-customer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161762444794:android:adac606f6e7d583b4b1043",
+        "android_client_info": {
+          "package_name": "com.niuto.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161762444794-id4g3ntjtl6qkoq20v4c0h2fd6uupeag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqB8TrxeyelrB1iITGwtNeRf3QuJjwrEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161762444794-id4g3ntjtl6qkoq20v4c0h2fd6uupeag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

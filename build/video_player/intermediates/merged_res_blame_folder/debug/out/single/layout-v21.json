@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/video_player/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/video_player/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/video_player/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/aashish/Documents/nextnepal-project/UrbarBazaar/build/video_player/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/aashish/.gradle/caches/transforms-2/files-2.1/05628378249d8decfa20a662e7052925/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">161762444794-id4g3ntjtl6qkoq20v4c0h2fd6uupeag.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">161762444794</string>
+    <string name="google_api_key" translatable="false">AIzaSyBqB8TrxeyelrB1iITGwtNeRf3QuJjwrEM</string>
+    <string name="google_app_id" translatable="false">1:161762444794:android:adac606f6e7d583b4b1043</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBqB8TrxeyelrB1iITGwtNeRf3QuJjwrEM</string>
+    <string name="google_storage_bucket" translatable="false">niuto-customer.appspot.com</string>
+    <string name="project_id" translatable="false">niuto-customer</string>
+</resources>
